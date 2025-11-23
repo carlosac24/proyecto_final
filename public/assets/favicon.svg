@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="8" fill="#1f4ba3"/>
+  <g transform="translate(10,12)" fill="#fff">
+    <path d="M4 2h28v28H4z" fill="#fff" opacity="0.06"/>
+    <path d="M6 4h24v24H6z" fill="#fff"/>
+    <path d="M8 6h20v2H8z" fill="#cce0ff"/>
+    <path d="M8 10h20v2H8z" fill="#cce0ff"/>
+    <path d="M8 14h20v2H8z" fill="#cce0ff"/>
+    <path d="M8 18h20v2H8z" fill="#cce0ff"/>
+  </g>
+</svg>
